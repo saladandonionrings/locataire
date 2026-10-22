@@ -8,7 +8,7 @@
 - [ ] **Demander les aides au logement** (APL / ALS) sur [caf.fr](https://www.caf.fr) ou [msa.fr](https://www.msa.fr) **dès l'emménagement** : l'aide est versée à partir du mois suivant l'entrée, et une demande tardive fait perdre des mois.
 - [ ] **Ouvrir les contrats** d'énergie (vous êtes libre de choisir votre fournisseur), communiquer les index relevés à l'état des lieux.
 - [ ] Transmettre l'**attestation d'assurance**.
-- [ ] Faire suivre le courrier (La Poste) et changer d'adresse ([service-public.fr](https://www.service-public.fr/particuliers/recherche?keyword=changement+d%27adresse+en+ligne)).
+- [ ] Faire suivre le courrier (La Poste) et changer d'adresse ([déclarer son changement d'adresse en ligne](https://www.service-public.gouv.fr/particuliers/vosdroits/R11193)).
 
 ## Le logement a un vrai problème dès l'arrivée ?
 

@@ -38,7 +38,7 @@ Le bail doit être **écrit** et respecter le **bail type** du [décret n° 2015
 - En copropriété : les **extraits du règlement de copropriété** sur la jouissance et l'usage des parties privatives et communes, et la quote-part de charges.
 
 !!! info "Diagnostic absent ou faux ?"
-    Le bailleur engage sa responsabilité. Un **DPE erroné** peut justifier des dommages-intérêts, voire une baisse de loyer si vous avez été trompé sur la performance énergétique. Un logement classé G alors qu'il était annoncé E n'est pas un détail.
+    Le bailleur engage sa responsabilité. Un **DPE erroné** peut justifier des dommages-intérêts, voire une baisse de loyer si vous avez été trompé sur la performance énergétique. Un logement classé G alors qu'il était annoncé E n'est pas un détail. → [DPE faux ou erroné : que faire ?](../locataire/dpe-errone.md)
 
 ## Durée du bail
 

@@ -32,7 +32,7 @@ Vous n'avez **presque jamais besoin d'un avocat** pour faire valoir vos droits d
 
     ---
 
-    Groupe Facebook où des locataires gérés par Foncia partagent leurs problèmes et les solutions qui ont marché. Pratique pour savoir si votre cas est isolé et quelles démarches ont abouti.
+    Groupe Facebook où des locataires gérés par Foncia partagent leurs problèmes et les solutions qui ont marché. Pratique pour savoir si votre cas est isolé et quelles démarches ont abouti. Voir aussi [Agences et gestionnaires](gestionnaires.md).
 
     [:octicons-arrow-right-24: Rejoindre le groupe](https://www.facebook.com/groups/foncia/)
 

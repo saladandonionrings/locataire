@@ -181,6 +181,39 @@ Je vous prie d'agréer, Madame, Monsieur, mes salutations distinguées.
 [Signature]
 ```
 
+## DPE erroné : réclamation
+
+```text
+Objet : Diagnostic de performance énergétique erroné — logement situé [adresse]
+
+Madame, Monsieur,
+
+Le bail du logement situé [adresse], signé le [date], était accompagné d'un diagnostic de performance énergétique (n° [numéro ADEME]) classant le logement en classe [C], avec une estimation des dépenses annuelles d'énergie de [fourchette] €.
+
+Un nouveau diagnostic, réalisé le [date] par [nom du diagnostiqueur certifié] (n° [numéro ADEME]), classe le logement en classe [F]. Vous en trouverez une copie ci-jointe. [Mes factures d'énergie, jointes, confirment une consommation très supérieure à celle annoncée.]
+
+Le DPE étant opposable depuis le 1er juillet 2021, cette erreur engage votre responsabilité. Elle a en outre les conséquences suivantes :
+
+- le logement étant classé [F/G], son loyer ne pouvait faire l'objet d'aucune révision ni majoration depuis le 24 août 2022 (articles 17, 17-1 et 17-2 de la loi n° 89-462 du 6 juillet 1989). Les révisions appliquées depuis le [date] représentent un trop-perçu de [montant] € ;
+- [en zone d'encadrement : aucun complément de loyer ne pouvait être appliqué, soit un trop-perçu de [montant] €] ;
+- [si classe G : le logement ne répond pas aux critères de décence énergétique (article 6 de la loi du 6 juillet 1989 et décret n° 2002-120), et doit faire l'objet de travaux de mise en conformité] ;
+- j'ai supporté une surconsommation d'énergie estimée à [montant] € depuis mon entrée dans les lieux.
+
+Je vous demande en conséquence, dans un délai d'un mois :
+- de me rembourser la somme de [total] € ;
+- de ramener le loyer à [montant] € hors charges à compter du prochain terme ;
+- [de me faire connaître le calendrier des travaux de mise en conformité].
+
+À défaut, je saisirai la commission départementale de conciliation, puis le juge des contentieux de la protection.
+
+Je vous prie d'agréer, Madame, Monsieur, mes salutations distinguées.
+
+[Signature]
+
+Copie : [agence immobilière]
+PJ : DPE initial, nouveau DPE, bail, factures d'énergie, historique des loyers
+```
+
 ## Réclamer des frais d'agence trop perçus
 
 ```text

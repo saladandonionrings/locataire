@@ -20,6 +20,10 @@ C'est le moment où vous êtes **le plus vulnérable** : marché tendu, pression
 
     Quand le bailleur ne peut pas exiger de garant, et la caution gratuite de l'État.
 
+-   :material-office-building: **[Agences et gestionnaires](../recours/gestionnaires.md)**
+
+    Vos droits face à une agence, les signaux d'alerte, et comment vérifier sa réputation.
+
 -   :material-clipboard-check: **[Bien inspecter le logement](inspecter.md)**
 
     La check-list de visite : humidité, DPE, surface, équipements, chauffage…

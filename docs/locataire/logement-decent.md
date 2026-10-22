@@ -27,6 +27,9 @@ Ces exigences s'appliquent aux **nouveaux baux, renouvellements et reconductions
 !!! info "Vous êtes déjà dans un logement G ?"
     Votre bail **n'est pas annulé** et le bailleur **ne peut pas vous donner congé** pour ce motif. Au contraire : vous pouvez **exiger la mise en conformité** (travaux) selon la procédure ci-dessous. Retrouvez votre DPE sur l'[observatoire de l'ADEME](https://observatoire-dpe-audit.ademe.fr).
 
+!!! warning "Le DPE annoncé vous semble faux ?"
+    Un logement annoncé C qui se révèle F ou G change tout : loyer gelé, révisions à rembourser, décence. → [DPE faux ou erroné : que faire ?](dpe-errone.md)
+
 ## Humidité et moisissures : de qui est-ce la faute ?
 
 C'est le reproche le plus fréquent du bailleur : « vous n'aérez pas assez ». En réalité, une humidité **persistante** vient le plus souvent d'un défaut du logement : **ventilation absente ou insuffisante**, isolation défaillante, ponts thermiques, infiltrations, remontées capillaires.

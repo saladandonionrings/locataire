@@ -98,6 +98,7 @@ nav:
       - Les charges: locataire/charges.md
       - Qui répare quoi ?: locataire/reparations.md
       - Logement décent et DPE: locataire/logement-decent.md
+      - DPE faux ou erroné: locataire/dpe-errone.md
       - Travaux du bailleur: locataire/travaux-du-bailleur.md
       - Votre domicile, votre vie privée: locataire/vie-privee.md
       - Difficultés de paiement et expulsion: locataire/impayes-expulsion.md
@@ -110,6 +111,7 @@ nav:
   - Se défendre gratuitement:
       - recours/index.md
       - Le conciliateur de justice: recours/conciliateur.md
+      - Agences et gestionnaires: recours/gestionnaires.md
       - Les pièges les plus courants: recours/pieges.md
       - Modèles de lettres: modeles/index.md
   - À propos: a-propos.md

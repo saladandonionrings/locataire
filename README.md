@@ -11,9 +11,9 @@
 | 🔍 [**Vous faites une visite**](docs/visite/index.md) | Frais interdits, arnaques, pièces qu'on n'a pas le droit de vous demander, discrimination, garant et Visale, check-list de visite |
 | ✍️ [**Vous allez signer**](docs/signature/index.md) | Bail, clauses abusives, encadrement des loyers, surface, frais d'agence, dépôt de garantie, meublé |
 | 🚚 [**Vous allez emménager**](docs/emmenager/index.md) | État des lieux d'entrée (et son complément sous 10 jours), assurance, premiers jours |
-| 🛋️ [**Vous êtes locataire**](docs/locataire/index.md) | Révision IRL, quittances, charges, réparations, logement décent et DPE, travaux, vie privée, impayés |
+| 🛋️ [**Vous êtes locataire**](docs/locataire/index.md) | Révision IRL, quittances, charges, réparations, logement décent, DPE faux ou erroné, travaux, vie privée, impayés |
 | 🚪 [**Vous partez du logement**](docs/depart/index.md) | Préavis (souvent 1 mois), congé du bailleur, état des lieux de sortie, dépôt de garantie et pénalités |
-| ⚖️ [**Se défendre gratuitement**](docs/recours/index.md) | ADIL, [conciliateur de justice](docs/recours/conciliateur.md), conciliation, juge sans avocat, pièges courants, groupe d'entraide, [modèles de lettres](docs/modeles/index.md) |
+| ⚖️ [**Se défendre gratuitement**](docs/recours/index.md) | ADIL, [conciliateur de justice](docs/recours/conciliateur.md), conciliation, juge sans avocat, pièges courants, agences et gestionnaires, groupe d'entraide, [modèles de lettres](docs/modeles/index.md) |
 
 ## Développement local
 

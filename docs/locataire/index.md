@@ -20,6 +20,10 @@ Vous êtes chez vous. Le bailleur a des **obligations** qui durent tout au long 
 
     Humidité, chauffage, passoires thermiques : forcer le bailleur à agir sans arrêter de payer.
 
+-   :material-file-alert: **[DPE faux ou erroné](dpe-errone.md)**
+
+    Annoncé C, finalement F ? Loyer gelé, remboursements, indemnisation.
+
 -   :material-hammer-wrench: **[Travaux du bailleur](travaux-du-bailleur.md)**
 
     Prévenir, horaires, et baisse de loyer au-delà de 21 jours.
