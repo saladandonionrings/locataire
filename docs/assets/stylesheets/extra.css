@@ -1,0 +1,41 @@
+/* Accueil : bandeau */
+.hero {
+  padding: 2rem 1.5rem;
+  margin: 0 0 2rem;
+  border-radius: 0.8rem;
+  background: linear-gradient(135deg, var(--md-primary-fg-color) 0%, #00796b 60%, #ff7043 140%);
+  color: #fff;
+}
+.hero h1 { color: #fff; margin: 0 0 0.5rem; font-weight: 700; }
+.hero p { font-size: 1.05rem; margin: 0.3rem 0; opacity: 0.95; }
+.hero .md-button { color: #fff; border-color: #fff; margin: 0.8rem 0.4rem 0 0; }
+.hero .md-button--primary { background: #fff; color: var(--md-primary-fg-color); }
+
+/* Cartes des parcours */
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid > .card {
+  border-radius: 0.6rem;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.md-typeset .grid.cards > ul > li:hover {
+  transform: translateY(-2px);
+}
+.md-typeset .grid.cards .lg { font-size: 2rem; }
+
+/* Étiquette d'article de loi */
+.md-typeset .loi {
+  display: inline-block;
+  padding: 0 0.45em;
+  border-radius: 0.3em;
+  font-size: 0.75em;
+  font-weight: 600;
+  background: var(--md-accent-fg-color--transparent);
+  color: var(--md-default-fg-color);
+  white-space: nowrap;
+}
+
+/* Tableaux plus lisibles */
+.md-typeset table:not([class]) th { background: var(--md-primary-fg-color--transparent, rgba(0,150,136,.1)); }
+
+.md-typeset .grid.cards .lg { color: var(--md-primary-fg-color); }
+.md-content__button + .hero { margin-top: 2.4rem; }

@@ -1,0 +1,119 @@
+site_name: Locataire — connais tes droits
+site_description: Le guide gratuit des droits du locataire et des obligations du bailleur en France, et comment se défendre sans payer d'avocat.
+site_url: https://saladandonionrings.github.io/locataire/
+repo_url: https://github.com/saladandonionrings/locataire
+repo_name: saladandonionrings/locataire
+edit_uri: edit/main/docs/
+copyright: Contenu sous licence CC BY-SA 4.0 — information juridique générale, pas un conseil personnalisé.
+
+theme:
+  name: material
+  language: fr
+  icon:
+    logo: material/home-heart
+    repo: fontawesome/brands/github
+  favicon: assets/favicon.svg
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Passer en mode sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Passer en mode clair
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - navigation.instant
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+    - toc.follow
+
+plugins:
+  - search:
+      lang: fr
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - md_in_html
+  - def_list
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+nav:
+  - Accueil: index.md
+  - Vous faites une visite:
+      - visite/index.md
+      - Arnaques et frais interdits: visite/arnaques.md
+      - Votre dossier de location: visite/dossier.md
+      - Discrimination: visite/discrimination.md
+      - Garant, caution et Visale: visite/garant.md
+      - Bien inspecter le logement: visite/inspecter.md
+  - Vous allez signer:
+      - signature/index.md
+      - Le bail et ses annexes: signature/bail.md
+      - Clauses abusives: signature/clauses-abusives.md
+      - Le montant du loyer: signature/loyer.md
+      - La surface habitable: signature/surface.md
+      - Frais d'agence: signature/frais-agence.md
+      - Dépôt de garantie: signature/depot-de-garantie.md
+      - Meublé, vide, colocation: signature/meuble-vide-colocation.md
+  - Vous allez emménager:
+      - emmenager/index.md
+      - L'état des lieux d'entrée: emmenager/etat-des-lieux.md
+      - L'assurance habitation: emmenager/assurance.md
+      - Les premiers jours: emmenager/premiers-jours.md
+  - Vous êtes locataire:
+      - locataire/index.md
+      - Loyer, révision et quittances: locataire/loyer-et-quittances.md
+      - Les charges: locataire/charges.md
+      - Qui répare quoi ?: locataire/reparations.md
+      - Logement décent et DPE: locataire/logement-decent.md
+      - Travaux du bailleur: locataire/travaux-du-bailleur.md
+      - Votre domicile, votre vie privée: locataire/vie-privee.md
+      - Difficultés de paiement et expulsion: locataire/impayes-expulsion.md
+  - Vous partez du logement:
+      - depart/index.md
+      - Votre préavis: depart/preavis.md
+      - Le bailleur vous donne congé: depart/conge-du-bailleur.md
+      - L'état des lieux de sortie: depart/etat-des-lieux-sortie.md
+      - Récupérer son dépôt de garantie: depart/depot-de-garantie.md
+  - Se défendre gratuitement:
+      - recours/index.md
+      - Les pièges les plus courants: recours/pieges.md
+      - Modèles de lettres: modeles/index.md
+  - À propos: a-propos.md
+
+validation:
+  links:
+    anchors: warn
+    unrecognized_links: warn
