@@ -28,13 +28,13 @@ Vous n'avez **presque jamais besoin d'un avocat** pour faire valoir vos droits d
 
     **CNL**, **CLCV**, **CSF**, **AFOC**, **Droit au logement**, **UFC-Que Choisir**, **Fondation pour le logement des défavorisés**. Certaines demandent une petite adhésion, mais accompagnent en conciliation et parfois au tribunal.
 
--   :fontawesome-brands-facebook: **Groupe d'entraide « Je suis chez Foncia… »**
+-   :material-forum: **Groupes d'entraide entre locataires**
 
     ---
 
-    Groupe Facebook où des locataires gérés par Foncia partagent leurs problèmes et les solutions qui ont marché. Pratique pour savoir si votre cas est isolé et quelles démarches ont abouti. Voir aussi [Agences et gestionnaires](gestionnaires.md).
+    Pour de nombreux gestionnaires et réseaux d'agences, des groupes (Facebook, forums…) réunissent leurs locataires : avis sur tel gestionnaire, problèmes récurrents, démarches qui ont marché.
 
-    [:octicons-arrow-right-24: Rejoindre le groupe](https://www.facebook.com/groups/foncia/)
+    [:octicons-arrow-right-24: Agences et gestionnaires](gestionnaires.md#les-groupes-dentraide-entre-locataires)
 
 </div>
 
