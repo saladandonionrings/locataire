@@ -65,7 +65,7 @@ et **comment se défendre gratuitement**, sans avocat.
 
     ---
 
-    ADIL, commission de conciliation, conciliateur, juge sans avocat, associations, modèles de lettres.
+    ADIL, commission de conciliation, [conciliateur de justice](recours/conciliateur.md), juge sans avocat, associations, modèles de lettres.
 
     [:octicons-arrow-right-24: Les recours gratuits](recours/index.md)
 

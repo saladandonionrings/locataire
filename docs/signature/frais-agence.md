@@ -36,4 +36,4 @@ Les honoraires ne sont exigibles **qu'à la signature du bail**.
 
 1. Réclamez le **remboursement** par lettre recommandée, en citant l'article 5 et le décret n° 2014-890. → [Modèles de lettres](../modeles/index.md)
 2. Signalez l'agence sur [SignalConso](https://signal.conso.gouv.fr). Elle risque une amende administrative jusqu'à **5 000 €** (personne physique) / **15 000 €** (personne morale).
-3. À défaut, **conciliateur de justice** puis **juge** (sans avocat). Délai : **3 ans** <span class="loi">art. 7-1</span>.
+3. À défaut, [**conciliateur de justice**](../recours/conciliateur.md) puis **juge** (sans avocat). Délai : **3 ans** <span class="loi">art. 7-1</span>.

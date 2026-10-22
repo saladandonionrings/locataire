@@ -40,7 +40,7 @@ La pénalité **n'est pas due** si le retard vient du fait que vous **n'avez pas
 ## Le bailleur ne rend pas le dépôt : la marche à suivre gratuite
 
 1. **Lettre de mise en demeure** en recommandé, citant l'art. 22, réclamant le dépôt **et les pénalités**. → [Modèle](../modeles/index.md#reclamer-son-depot-de-garantie)
-2. **Commission départementale de conciliation** (gratuite) ou **conciliateur de justice** (gratuit). Pour une demande de moins de 5 000 €, une tentative de règlement amiable est d'ailleurs en principe **obligatoire** avant de saisir le juge.
+2. **Commission départementale de conciliation** (gratuite) ou [**conciliateur de justice**](../recours/conciliateur.md) (gratuit). Pour une demande de moins de 5 000 €, une tentative de règlement amiable est d'ailleurs en principe **obligatoire** avant de saisir le juge.
 3. **Injonction de payer** (procédure simple, **sans avocat**, sans audience, en ligne ou au greffe) ou **requête** devant le **juge des contentieux de la protection**. → [Recours gratuits](../recours/index.md)
 
 Vous avez **3 ans** pour agir <span class="loi">art. 7-1</span>.

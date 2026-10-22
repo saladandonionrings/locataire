@@ -13,7 +13,7 @@
 | 🚚 [**Vous allez emménager**](docs/emmenager/index.md) | État des lieux d'entrée (et son complément sous 10 jours), assurance, premiers jours |
 | 🛋️ [**Vous êtes locataire**](docs/locataire/index.md) | Révision IRL, quittances, charges, réparations, logement décent et DPE, travaux, vie privée, impayés |
 | 🚪 [**Vous partez du logement**](docs/depart/index.md) | Préavis (souvent 1 mois), congé du bailleur, état des lieux de sortie, dépôt de garantie et pénalités |
-| ⚖️ [**Se défendre gratuitement**](docs/recours/index.md) | ADIL, conciliation, juge sans avocat, pièges courants, [modèles de lettres](docs/modeles/index.md) |
+| ⚖️ [**Se défendre gratuitement**](docs/recours/index.md) | ADIL, [conciliateur de justice](docs/recours/conciliateur.md), conciliation, juge sans avocat, pièges courants, groupe d'entraide, [modèles de lettres](docs/modeles/index.md) |
 
 ## Développement local
 

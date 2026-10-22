@@ -36,7 +36,7 @@ Même une réparation « locative » n'est **pas** pour vous si elle est due à 
 
 1. **Signalez par écrit** (mail puis lettre recommandée), avec photos, en citant l'**art. 6 de la loi du 6 juillet 1989**. → [Modèle](../modeles/index.md#demander-des-reparations-au-bailleur)
 2. Relancez par **mise en demeure** en fixant un délai raisonnable (15 jours à 1 mois selon l'urgence).
-3. Saisissez gratuitement la **commission départementale de conciliation** ou un **conciliateur de justice**.
+3. Saisissez gratuitement la **commission départementale de conciliation** ou un [**conciliateur de justice**](../recours/conciliateur.md).
 4. En dernier recours, le **juge des contentieux de la protection** peut **ordonner les travaux** (éventuellement sous astreinte), **réduire le loyer** et vous accorder des **dommages-intérêts** pour trouble de jouissance.
 
 !!! danger "Faire les travaux soi-même et les déduire du loyer ?"

@@ -28,7 +28,18 @@ Vous n'avez **presque jamais besoin d'un avocat** pour faire valoir vos droits d
 
     **CNL**, **CLCV**, **CSF**, **AFOC**, **Droit au logement**, **UFC-Que Choisir**, **Fondation pour le logement des défavorisés**. Certaines demandent une petite adhésion, mais accompagnent en conciliation et parfois au tribunal.
 
+-   :fontawesome-brands-facebook: **Groupe d'entraide « Je suis chez Foncia… »**
+
+    ---
+
+    Groupe Facebook où des locataires gérés par Foncia partagent leurs problèmes et les solutions qui ont marché. Pratique pour savoir si votre cas est isolé et quelles démarches ont abouti.
+
+    [:octicons-arrow-right-24: Rejoindre le groupe](https://www.facebook.com/groups/foncia/)
+
 </div>
+
+!!! warning "Groupes d'entraide : à prendre comme des témoignages"
+    Les conseils publiés dans un groupe sont des retours d'expérience, pas des avis juridiques. Vérifiez-les dans ce guide ou auprès de l'ADIL, et **ne publiez jamais** vos documents personnels (bail, pièce d'identité, adresse).
 
 ## Étape 1 : l'écrit
 
@@ -60,7 +71,9 @@ Vous n'avez **presque jamais besoin d'un avocat** pour faire valoir vos droits d
 - **Bénévole, gratuit**, assermenté. Permanences en mairie, tribunal, maison de justice.
 - Pour **tous** les litiges (y compris avec un voisin, une agence).
 - Prise de rendez-vous sur [conciliateurs.fr](https://www.conciliateurs.fr).
-- L'accord signé peut être **homologué** par le juge et devient **exécutoire**.
+- L'accord signé peut être **homologué** par le juge et devient **exécutoire**. S'il échoue, le constat d'échec vous ouvre la porte du juge.
+
+→ **[Tout savoir sur le conciliateur de justice](conciliateur.md)** : comment le saisir, déroulement, après la conciliation, et comparaison avec la commission départementale.
 
 !!! info "Tentative amiable obligatoire sous 5 000 €"
     Pour une demande en justice **inférieure à 5 000 €** (la plupart des litiges de dépôt de garantie, charges, frais d'agence…), il faut en principe avoir tenté une **conciliation**, une **médiation** ou une **procédure participative** avant de saisir le juge <span class="loi">art. 750-1 Code de procédure civile</span>. Le passage devant la CDC ou un conciliateur de justice remplit cette condition.
